@@ -1,3 +1,7 @@
+<h1 align="center">
+  Hi, I'm Michelle
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
@@ -17,10 +21,7 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-miimipan&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 <!--
 **miimipan/miimipan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
