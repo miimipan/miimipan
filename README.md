@@ -1,10 +1,7 @@
-<h1 align="center">
-  Hi, I'm Michelle
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<div id="banner" align="center">
+  <img src="anigif2.gif" width="100%"/></div>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
+<!--
 <div id="badges" align="center">
   <a href="linkedin.com/in/miimipan">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,11 +13,12 @@
     <img src="https://img.shields.io/badge/Github-purple?style=for-the-badge&logo=github&logoColor=white" alt="GithubBadge"/>
   </a>
 </div>
+-->
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-miimipan&style=flat-square&color=blue" alt=""/>
 </div>
-
 
 
 <!--
